@@ -4798,4 +4798,15 @@ QBShared.Vehicles = {
 		['hash'] = `warrener2`,
 		['shop'] = 'pdm',
 	},
+
+	['NF1'] = {						
+	['name'] = 'Warrener HKR',
+	['brand'] = 'Vulcar',
+	['model'] = 'NF1',
+	['price'] = 30000,
+	['category'] = 'sedans',
+	['hash'] = `NF1`,
+	['shop'] = 'pdm',
+	
+},
 }
